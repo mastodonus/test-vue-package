@@ -3,7 +3,7 @@
   "description" : "",
   "author": "Adam Osmond (@mastodonus)",
   "homepage": "https://github.com/mastodonus/test-vue-package#readme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./dist/test-vue-library.umd.cjs",
   "module": "./dist/test-vue-library.js",
   "types": "./dist/main.d.ts",
